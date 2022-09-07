@@ -1,0 +1,21 @@
+.nav1{
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+.footer1{
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+div{
+    flex: 1;
+}
+.imagen {
+    text-align: center;
+}
+
+.titulo{
+    color: blue;
+    text-align: center;
+}
